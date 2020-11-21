@@ -1,4 +1,6 @@
 /venv
 /apps/user/migrations
 /apps/clientes/migrations
+/apps/Produtos/migrations
+/apps/Produtos/__pycache__
 /db.sqlite3
