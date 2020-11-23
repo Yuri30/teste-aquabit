@@ -3,4 +3,6 @@
 /apps/clientes/migrations
 /apps/Produtos/migrations
 /apps/Produtos/__pycache__
+/apps/pedidos/__pycache__
+/apps/pedidos/migrations
 /db.sqlite3
